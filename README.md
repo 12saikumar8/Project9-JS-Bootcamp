@@ -2,6 +2,6 @@
 
 ## Developer Landing Page
 
-## Tech use HTML & CSS
+## Tech used HTML & CSS
 
 learnt about cards , margin , padding and other properties..
